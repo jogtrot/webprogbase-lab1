@@ -1,1 +1,1 @@
-file:///home/sf/projects/webprogbase/labs/lab1/index.html
+https://jogtrot.github.io/webprogbase-lab1/
